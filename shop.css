@@ -1,0 +1,48 @@
+.wh{
+    height:30px;
+}
+.phone,.shop-car{
+    width: 12px;
+    height: 20px;
+    border: 0px solid #fff;
+    background-image:url("img/icon.png");
+}
+.font_h{
+    font-size: 12px;
+}
+.dao-h{
+    height: 108px;
+}
+.daoju{
+    width: 230px;
+}
+.border-input{
+    border:2px solid #f74a4a;
+    height: 34px;
+}
+.btn-search{
+
+    background-image: url("img/search.png");
+}
+.list-bg{
+    background: #3a3f4a;
+}
+.list-m{margin-left:-79px;
+    margin-right:-79px;}
+.font_l{
+    font-size: 13px;
+}
+.text-white{
+    color:#fff;
+}
+.shop-car{
+    width: 27px;height: 28px;
+    background-position: 557px 2365px;
+}
+.py-1\.5{
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.bg_list{
+    background-image: url("img/wrap_bg.png");
+}
